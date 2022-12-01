@@ -1,4 +1,4 @@
- login(){
+ function login(){
     event.preventDefault();
 
     var email = document.getElementById("se").value;
